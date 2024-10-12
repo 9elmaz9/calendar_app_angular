@@ -1,13 +1,26 @@
 
-# FullCalendar Angular 15 Example Project
+# 🗓️ Calendar App Frontend - Angular Power! ⚡️
 
-This is a fully-buildable example project for FullCalendar and Angular. It was initially created with the `ng new` command of the [Angular CLI](https://angular.io/cli). For a complete walkthrough, read the [FullCalendar Angular Docs &raquo;](https://fullcalendar.io/docs/angular)
+Welcome to the **Calendar App Frontend**, a fully-functional calendar app built with the power of **Angular**! 🔥 Create, edit, and delete your events in style, and view them across different formats (monthly, weekly, daily)! 📅 This project was kicked off using the magic of the [`ng new`](https://angular.io/cli) command from Angular CLI.
+
+---
+
+## 🚀 Quick Installation Guide
+
+Follow these easy steps to get the calendar rolling on your machine:
+
+1. **Clone the  repository**:
+
+   ```bash
+   git clone https://github.com/9elmaz9/calendar_app_angular.git
+
+
 
 ## Installation
 
 ```bash
-git clone https://github.com/fullcalendar/fullcalendar-examples.git
-cd fullcalendar-examples/angular15
+git clone https://github.com/9elmaz9/calendar_app_angular.git
+cd calendar_app_angular
 npm install
 ```
 
@@ -18,7 +31,7 @@ npm run build # build to a directory
 npm run start # continously build, as a server
 ```
 
-After running the `npm run start` command, you will be given a localhost URL that can be visited in a browser.
+After running the npm run start command, just hop on to your browser and visit http://localhost:4200 to check out your awesome calendar app!
 
 ## Monorepo Quirk
 
@@ -37,3 +50,18 @@ To get this example working within [StackBlitz](https://stackblitz.com/), the fo
 ```ts
 import 'zone.js' // hack for StackBlitz
 ```
+
+
+  
+## 🎉 Features
+
+📅 Create, edit, and delete events
+🕒 View events in multiple formats (monthly, weekly, daily)
+🌍 Fully responsive design
+⚡ Fast and efficient Angular-based frontend
+
+## 📦 Technologies Used
+Angular: The main framework powering the application
+FullCalendar: A powerful and flexible calendar integration
+TypeScript: For all the type safety goodness
+Node.js & npm: Package management and local development
