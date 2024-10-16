@@ -65,3 +65,11 @@ Angular: The main framework powering the application
 FullCalendar: A powerful and flexible calendar integration
 TypeScript: For all the type safety goodness
 Node.js & npm: Package management and local development
+
+## 🎯 Conclusion
+
+Working on this **Calendar App Frontend** project has been a rewarding journey! Through the development process, I deepened my understanding of **Angular** and its powerful CLI tools, refined my skills in working with **TypeScript**, and learned how to efficiently integrate third-party libraries like **FullCalendar**. 
+
+This project also provided valuable insights into responsive design and how to ensure that an app performs well across different devices and screen sizes. I encountered some challenges, particularly with monorepo configurations and StackBlitz quirks, but overcoming these obstacles has enhanced my problem-solving abilities and understanding of complex setups.
+
+
