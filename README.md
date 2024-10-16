@@ -72,4 +72,16 @@ Working on this **Calendar App Frontend** project has been a rewarding journey! 
 
 This project also provided valuable insights into responsive design and how to ensure that an app performs well across different devices and screen sizes. I encountered some challenges, particularly with monorepo configurations and StackBlitz quirks, but overcoming these obstacles has enhanced my problem-solving abilities and understanding of complex setups.
 
+## 🌟 ALSO StackBlitz Benefits
+
+One of the key tools I used during this project was **StackBlitz**, which proved to be incredibly helpful for quick prototyping and sharing progress. Here are a few advantages I discovered while using it:
+
+- **Instant Setup**: No need to install local dependencies or configure the environment—just start coding and see the changes instantly.
+- **Live Previews**: StackBlitz provides real-time feedback with live previews, making it easier to test features and see the results of changes without needing to manually refresh or rebuild.
+- **Easy Sharing**: With StackBlitz, it's simple to share the project with others by just sending a link. This was especially useful for getting feedback quickly or demonstrating progress.
+- **Portable Development**: Since everything runs in the browser, I could work on the project from any device without worrying about environment consistency, which made the development process more flexible.
+
+Using **StackBlitz** streamlined the development of this project, saving time and allowing for more efficient testing and collaboration. It's a tool I would highly recommend for rapid development, especially when working with Angular or similar frameworks.
+
+
 
