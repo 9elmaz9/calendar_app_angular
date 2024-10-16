@@ -30,7 +30,7 @@ npm install
 npm run build # build to a directory
 npm run start # continously build, as a server
 ```
-
+Once the development server is running, open your browser and navigate to http://localhost:4200. You'll be able to interact with your calendar app and manage your events!
 After running the npm run start command, just hop on to your browser and visit http://localhost:4200 to check out your awesome calendar app!
 
 ## Monorepo Quirk
